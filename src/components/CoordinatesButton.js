@@ -13,4 +13,4 @@ const CoordinatesButton = ({onReceiveCoordinates}) => {
 
 }
 
-export default CoordinatesButton
+export default CoordinatesButton;
