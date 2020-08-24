@@ -6,5 +6,5 @@ import React from 'react'
 
 const CoordinatesButton = (props) => {
 
-    
+
 }
